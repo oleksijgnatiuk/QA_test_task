@@ -6,7 +6,7 @@ Here are some of the key points this project:
 *code was written in Python 3.6 using Selenium WebDriver framework and "unittest" built-in Python's library to assert data<br />
 *tests are launched in Google Chrome browser, using Chrome webdriver<br />
 *elements of the Page Object Pattern were implemented during creating the project, recurring elements were splitted into separated classes<br />
-*in order to launch the test suite you can run the class named "TestSuite" within the TestSuite.py in any Python's IDE
+*in order to launch the test suite you can run the class named "TestSuite" within the Tests/TestSuite.py in any Python's IDE
 or you can do it using the "pystest" lib https://docs.pytest.org/en/latest/ via the command-line.
 
 
