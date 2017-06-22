@@ -1,7 +1,7 @@
 # QA_test_task
 innitial commit
 
-Here are some of the key points this project:
+Here are some of the key points of this project:
 
 *code was written in Python 3.6 using Selenium WebDriver framework and "unittest" built-in Python's library to assert data<br />
 *tests are launched in Google Chrome browser, using Chrome webdriver<br />
